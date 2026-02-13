@@ -125,6 +125,4 @@ This project is developed as part of the CODSOFT Internship Program.
 
 ---
 
-## 🎥 Demo Video
 
-(Add your demo video link here if required)
